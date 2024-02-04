@@ -2,7 +2,11 @@
 This is a Sudoku solver app that uses recursive backtracking algorithm in Kotlin. The app features a simple UI created using Canvas and allows users to input the Sudoku puzzle and solve it with just a click of a button.
 
 # Screenshots
-
+<p align="center">
+  <img src="https://github.com/Deepak-Raina/Sudoku-Solver/assets/102790840/7e2148a8-5b3c-4c1b-b2aa-74e8fa6a95be" alt="screenshot1" width="30%"/>
+  <img src="https://github.com/Deepak-Raina/Sudoku-Solver/assets/102790840/7bab9613-a66f-4948-a019-982c410486b9" alt="screenshot2" width="30%"/>
+  <img src="https://github.com/Deepak-Raina/Sudoku-Solver/assets/102790840/c2d1de0f-3881-4ade-a03f-b43ee21072f7" alt="screenshot3" width="30%"/>
+</p>
 
 
 
